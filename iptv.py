@@ -90,7 +90,8 @@ def m3u_to_txt(m3u_content):
 
     for line in lines:
         if line.startswith("#EXTINF"):
-            group_name = line.split('group-title="')[1].split('"')[0]
+            if(len(line.split('group-title="')) > 1):
+              group_name = line.split('group-title="')[1].split('"')[0]
             channel_name = line.split(",")[-1]
         elif url_pattern.match(line):
             channel_link = line
