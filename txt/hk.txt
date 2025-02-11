@@ -1,5 +1,4 @@
 AKTV,#genre#
-AKTV,#genre#
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
@@ -61,9 +60,9 @@ Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 
 
 香港,#genre#
-凤凰资讯,http://dns.yiandrive.com:16813/phenix/fhzx
-凤凰中文,http://dns.yiandrive.com:16813/phenix/fhzw
-凤凰香港,http://dns.yiandrive.com:16813/phenix/fhhk
+凤凰中文,http://ttkx.cc:1380/公开源/fh.php?id=fhzw
+凤凰资讯,http://ttkx.cc:1380/公开源/fh.php?id=fhzx
+凤凰香港,http://ttkx.cc:1380/公开源/fh.php?id=fhhk
 
 凤凰中文「限江西移动」,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 凤凰资讯「限江西移动」,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
